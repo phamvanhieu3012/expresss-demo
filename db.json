@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hiếu"
+    },
+    {
+      "id": 2,
+      "name": "Thinh"
+    },
+    {
+      "name": "Hieu Pham",
+      "phone": "0123013221"
+    }
+  ]
+}
